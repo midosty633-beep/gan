@@ -1,0 +1,10 @@
+{
+  "name": "مهامي",
+  "short_name": "مهامي",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FAF7FF",
+  "theme_color": "#7C6FF0",
+  "lang": "ar",
+  "dir": "rtl"
+}
